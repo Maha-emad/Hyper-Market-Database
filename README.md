@@ -1,1 +1,3 @@
-# Hyper-Market-System
+# Hyper-Market-System 
+This supermarket management system has realized the transmission and control of large goods, so as to facilitate the management and decision of sales, and reduce a big burden for supermarkets and supermarket managers. It also can help to improve the work efficiency of supermarket. Its requirements is to provide the basic information maintenance function of employees, memberships and products so that managers can through the function to add, delete, and
+modify the basic information of employees and the employees can through it to add, modify and delete the basic information of memberships and goods. Supermarket management system is very convenient for manage, input, output, and find the data so as to make the messy supermarket data to specific, visualizations, rationalization. In the aspect of software, the supermarket management system using Java language and sql as the background database. 
